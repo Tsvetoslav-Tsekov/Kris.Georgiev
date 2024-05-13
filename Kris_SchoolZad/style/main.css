@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  font-family: Arial;
+}
+#c1 {
+    margin-right: -450px;
+    margin-left: 1000px;
+}
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#logo {
+    margin-left: -1510px;
+    height: 90px;
+    margin-bottom: -10px;
+    margin-top: -17px;
+    position: relative;
+}
+
+.logonavbar {
+    position: relative;
+    z-index: 1px;
+    height: 50px;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.topnav {
+    margin-top: -60px;
+}
+
+#product1 {
+    width: 1800px;
+}
+
+.product1 {
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: #e6e9ed;
+    border-color: #e6e9ed;
+
+    padding: 50px;
+}
+
+#p1 {
+    color: black;
+}
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+main {
+    padding: 20px;
+}
+
+.product {
+    text-align: center;
+}
+
+.product img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#product2 {
+   margin-left: -1050px;
+}
+#pr2 {
+   margin-left: 550px;
+   margin-top: -230px;
+   width: 300px;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: grey;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.button {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 15px;
+    background-color: #333;
+    border-color: #333;
+    padding: 10px;
+    position: fixed;
+    margin-left: 1675px;
+    margin-top: -60px;
+    width: 220px;
+}
+
+#button5 {
+    margin-top: -8px;
+}
+
+#pb1 {
+    color: white;
+}
+
+#title {
+    width: 155px;
+    margin-left: 615px;
+    margin-bottom: -70px;
+}
